@@ -1,0 +1,12 @@
+.about__wrapper {
+    margin-top: -60px;
+    grid-column: 5 / span 4;
+}
+
+.about__wrapper p {
+    font-size: 20px;
+    color: white;
+    line-height: 2rem;
+    letter-spacing: -.126px;
+    text-align: center;
+}

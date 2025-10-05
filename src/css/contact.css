@@ -1,0 +1,18 @@
+.contact__wrapper {
+    margin-top: 260px;
+    grid-column: 10 / span 2;
+}
+
+.contact__wrapper a{
+    color: white;
+    font-size: 20px;
+}
+
+.contact__wrapper a:hover{
+    color: hsla(0, 0%, 100%, 0.5);
+    font-size: 20px;
+    transition: 0.8s;
+}
+
+
+
